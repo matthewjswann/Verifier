@@ -1,0 +1,17 @@
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\Verifier.Test.deps.json
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\Verifier.Test.runtimeconfig.json
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\Verifier.Test.runtimeconfig.dev.json
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\Verifier.Test.dll
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\Verifier.Test.pdb
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\Verifier.dll
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\bin\Debug\netcoreapp2.1\Verifier.pdb
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\obj\Debug\netcoreapp2.1\Verifier.Test.csprojAssemblyReference.cache
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\obj\Debug\netcoreapp2.1\Verifier.Test.csproj.CoreCompileInputs.cache
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\obj\Debug\netcoreapp2.1\Verifier.Test.AssemblyInfoInputs.cache
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\obj\Debug\netcoreapp2.1\Verifier.Test.AssemblyInfo.cs
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\obj\Debug\netcoreapp2.1\Verifier.Test.csproj.CopyComplete
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\obj\Debug\netcoreapp2.1\Verifier.Test.dll
+C:\Users\matthew.swann\workspace\Verifier\Verifier.Test\obj\Debug\netcoreapp2.1\Verifier.Test.pdb
